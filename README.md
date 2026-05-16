@@ -39,6 +39,8 @@ JSON
 
 Project Preview 📸
 
+https://github.com/ADITIBANSAL06/Weather_Fetcher/blob/main/weather_fetcher.png
+
 
 
 
