@@ -22,4 +22,4 @@ OpenWeatherMap API
 JSON
 Project Preview 📸
 
-weather_fetcher.png
+
