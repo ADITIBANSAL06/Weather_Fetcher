@@ -45,9 +45,13 @@ How It Works 🧠
 
 
 User enters city name
+
 App sends request to OpenWeatherMap API
+
 API returns weather data in JSON format
+
 Python extracts important information
+
 GUI displays the weather details
 
 
